@@ -1,10 +1,12 @@
 .text_bottom20{
   margin-bottom : 20px;
 }
+
 #alert{
-	color:red
+	color:rgb(221, 24, 24)
 }
+
 #mouseover_color{
-	color:red
+	color:rgb(0, 218, 83)
 }
 
