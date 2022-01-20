@@ -16,6 +16,6 @@ $(function() {
 	});
 	
 	$('#alert').click(function(e) {
-		alert('�e�X�g�̃A���[�g');
+		alert('テストのアラート');
 	});
 });
